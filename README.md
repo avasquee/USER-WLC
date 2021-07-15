@@ -1,4 +1,4 @@
-#USER-WLC
+# USER-WLC
 
 A Lammps package for worm like chain (WLC) simulations.
 
